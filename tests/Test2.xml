@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Records>
+	<reco rd>
+		<flight_number>123</flight_number>
+		<datetime>01.12.2019 20:30</datetime>
+		<last_name>Name</last_name>
+		<destination>Chicago</destination>
+		<number_of_baggage>2</number_of_baggage>
+		<sum_weight>19</sum_weight>
+	</record>
+</Records>

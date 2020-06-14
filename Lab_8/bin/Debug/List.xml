@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Records>
+	<record>
+		<flight_number>123</flight_number>
+		<datetime>01.12.2019 20:30</datetime>
+		<last_name>Name</last_name>
+		<destination>Chicago</destination>
+		<number_of_baggage>2</number_of_baggage>
+		<sum_weight>19</sum_weight>
+	</record>
+
+	<record>
+		<flight_number>124</flight_number>
+		<datetime>03.12.2019 20:30</datetime>
+		<last_name>Name2</last_name>
+		<destination>London</destination>
+		<number_of_baggage>1</number_of_baggage>
+		<sum_weight>15</sum_weight>
+	</record>
+
+	<record>
+		<flight_number>125</flight_number>
+		<datetime>07.12.2019 20:30</datetime>
+		<last_name>Name3</last_name>
+		<destination>Chicago</destination>
+		<number_of_baggage>2</number_of_baggage>
+		<sum_weight>14</sum_weight>
+	</record>
+</Records>

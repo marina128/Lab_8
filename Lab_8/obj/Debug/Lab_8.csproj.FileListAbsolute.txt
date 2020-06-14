@@ -1,0 +1,12 @@
+C:\Users\Marina\source\repos\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+C:\Users\Marina\source\repos\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+C:\Users\Marina\source\repos\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+C:\Users\Marina\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.csprojResolveAssemblyReference.cache
+C:\Users\Marina\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.Form1.resources
+C:\Users\Marina\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.FormAdd.resources
+C:\Users\Marina\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.FormSearch.resources
+C:\Users\Marina\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+C:\Users\Marina\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.Cache
+C:\Users\Marina\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+C:\Users\Marina\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
